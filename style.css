@@ -24,8 +24,8 @@ h1 {
 p {
 	border: 1px solid black;
 	font-size: 15px;
-	background-color: darkviolet;
-	color: ghostwhite;
+	background-color: lightgray;
+	color: black;
 	margin: 10px;
 	padding: 45px 10px 5px 10px;
 	position: relative;
@@ -41,7 +41,7 @@ p {
 	background-color: lightpink;
 	position: absolute;
 	right: 10px;
-	top: -9px;
+	top: -9.8px;
 }
 #a2 > h2 {
 	color: black;
@@ -49,15 +49,15 @@ p {
 	background-color: red;
 	position: absolute;
 	right: 10px;
-	top: -9px;
+	top: -9.8px;
 }
 #a3 > h2 {
 	color: black;
 	border: 1px solid black;
-	background-color: green;
+	background-color: yellow;
 	position: absolute;
 	right: 10px;
-	top: -9px;
+	top: -9.8px;
 }
 @media (min-width: 992px) {
   .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
